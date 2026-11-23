@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- MotoServer Official Keystone Blade - Pure Solid Vector Architecture -->
+  <rect width="512" height="512" rx="112" fill="#090d16"/>
+
+  <!-- Left Monolith Blade -->
+  <polygon points="86,391 86,121 171,121 241,256 171,391" fill="#FFFFFF"/>
+
+  <!-- Right Monolith Blade -->
+  <polygon points="426,391 426,121 341,121 271,256 341,391" fill="#FFFFFF"/>
+
+  <!-- Center Keystone Node (The Server Anchor) -->
+  <polygon points="256,191 291,256 256,321 221,256" fill="#10b981"/>
+</svg>
